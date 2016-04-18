@@ -20,6 +20,7 @@
 	</js-module>
 <!-- android -->
     <platform name="android">
+        <source-file src="www/001.mp3" target-dir="assets/www/mp3"/>
 
         <config-file target="res/xml/config.xml" parent="/*">
 
