@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="Quran.smartselwady.com"
-        version="1.0">
+id="Quran.smartselwady.com"
+version="1.0">
 
   <name>Quranplugin</name>
 
@@ -19,12 +19,126 @@
 			<clobbers target="Quranplugin" />
 	</js-module>
 <!-- android -->
-    <platform name="android">
-        <source-file src="www/001.mp3" target-dir="assets/www/mp3"/>
+<platform name="android">
+<source-file src="www/001.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/002.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/003.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/004.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/005.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/006.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/007.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/008.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/009.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/010.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/011.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/012.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/013.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/014.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/015.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/016.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/017.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/018.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/019.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/020.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/021.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/022.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/023.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/024.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/025.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/026.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/027.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/028.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/029.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/030.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/031.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/032.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/033.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/034.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/035.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/036.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/037.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/038.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/039.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/040.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/041.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/042.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/043.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/044.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/045.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/046.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/047.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/048.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/049.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/050.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/051.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/052.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/053.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/054.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/055.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/056.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/057.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/058.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/059.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/060.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/061.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/062.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/063.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/064.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/065.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/066.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/067.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/068.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/069.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/070.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/071.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/072.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/073.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/074.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/075.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/076.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/077.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/078.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/079.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/080.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/081.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/082.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/083.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/084.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/085.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/086.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/087.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/088.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/089.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/090.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/091.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/092.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/093.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/094.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/095.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/096.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/097.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/098.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/099.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/100.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/101.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/102.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/103.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/104.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/105.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/106.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/107.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/108.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/109.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/110.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/111.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/112.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/113.mp3" target-dir="assets/www/mp3"/>
+<source-file src="www/114.mp3" target-dir="assets/www/mp3"/>
 
-        <config-file target="res/xml/config.xml" parent="/*">
 
-        </config-file>
+<config-file target="res/xml/config.xml" parent="/*">
+
+</config-file>
 
     </platform>
 
